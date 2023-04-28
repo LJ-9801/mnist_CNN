@@ -1,1 +1,1 @@
-Convolotional Network on MNIST
+Convolotional Neural Network on MNIST
