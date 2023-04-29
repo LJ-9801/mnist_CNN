@@ -1,1 +1,1 @@
-Convolotional Neural Network on MNIST
+LeNet on MNIST
